@@ -11,7 +11,7 @@ while CMD is in the CMD-factorial-loop.java directory
   
 You can see the program document using :    
 "javadoc CMD_Factorial_Loop.java"   
- while CMD is in the CMD-factorial-loop.java directory    
+while CMD is in the CMD-factorial-loop.java directory    
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com

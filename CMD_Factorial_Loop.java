@@ -30,7 +30,7 @@ public class CMD_Factorial_Loop{
 
     /** 
      * method for calculating the factorial of input with a for loop.
-     * @param number  int number of series
+     * @param number  int number to calculate the factoriaal
      * @return sum  factorial of the input number with long data type
      * <pre>
      *      factorial_Calculator_Loop(0); // Output: 1
